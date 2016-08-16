@@ -1,17 +1,12 @@
-# Switch PHP version
-
-Quickly switch between PHP5 and PHP7.
-
-Currently, only Windows is supported.
-
-
-## Why is this a thing
+# Quickly switch Apache 32-bit and 64-bit, for PHP5 and PHP7
 
 You're an amazing developer who wants the best PHP version running at all times to create awesome applications which run so fast, even Chuck Norris can't catch up. 
 
 In the other hand, that one old project just isn't ready for PHP7. It'll take loads of time to set up a PHP5 virtual machine and launching it every time you start developing steals your precious time.
 
 Two local PHP installations may be a solution, but switching their services around is kind of a pain. This project solves that problem by automating the switching services part.
+
+Currently, only Windows is supported.
 
 
 ## How it works
